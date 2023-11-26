@@ -1,0 +1,1 @@
+El inciso 3. EDA y Profiling de los datos no se muestra en la visualización de  github pero si funciono correctamente. De igual forma se creo un HTML pero este es de 53mb y github permite únicamente 25mb. Debido al data set el EDA y Profiling tomo 20 minutos en completarse. 
